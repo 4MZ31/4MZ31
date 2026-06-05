@@ -1,6 +1,6 @@
 # Dune
 
-Étudiant • Développeur passionné par les systèmes bas niveau et le développement web
+Autodidacte • Développeur passionné par les systèmes bas niveau et le développement web
 
 ---
 
