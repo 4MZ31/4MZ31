@@ -10,4 +10,14 @@ Hi, i'm **4mz**. I am a LUA/JS/TS developer from France.
 
 # 📫 Contact Me on Social Media
 
-[Email](mailto:arthur.munoz54@gmail.com)
+✉️ [Email](mailto:arthur.munoz54@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arthur-munoz-358103156/) | [Website](https://4mz.fr)
+
+# 💡 Projects
+
+* [LabCity](https://discord.gg/Jmjax8RggU)
+* [AMZ_Framework](https://4mz.fr)
+* [DISCORD](https://discord.com/users/4mz.)
+
+# 📚 General
+
+* 🔭 I’m currently working on AMZ_Framework
