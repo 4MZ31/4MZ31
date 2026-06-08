@@ -35,11 +35,30 @@ Toujours en quête de nouveaux défis et d'opportunités d'apprentissage.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://www.4mz.fr">
+  <a href="https://www.linkedin.com/in/arthur-munoz-358103156/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 
   <a href="mailto:arthur.munoz54@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
+  <a href="https://discord.com/users/4mz.">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="https://4mz.fr">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white">
+  </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
