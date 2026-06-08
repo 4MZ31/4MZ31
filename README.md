@@ -2,7 +2,7 @@
 
 ---
 
-Hi, i'm **4mz**. I am a LUA/JS/TS developer from France.\n\n
+Hi, i'm **4mz**. I am a LUA/JS/TS developer from France./n
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
