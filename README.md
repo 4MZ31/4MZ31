@@ -16,8 +16,7 @@ Hi, i'm **4mz**. I am a LUA/JS/TS developer from France.
 
 * [LabCity](https://discord.gg/Jmjax8RggU)
 * [AMZ_Framework](https://4mz.fr)
-* [DISCORD](https://discord.com/users/4mz.)
-
+* [DISCORD](https://discord.gg/xSzEDECw)
 # 📚 General
 
 * 🔭 I’m currently working on AMZ_Framework
